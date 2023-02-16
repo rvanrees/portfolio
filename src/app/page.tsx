@@ -3,7 +3,7 @@ import { ArrowIcon, GitHubIcon, TwitterIcon } from "components/icons";
 
 export default function Home() {
   return (
-    <section className="">
+    <section>
       <h1 className="font-bold text-3xl">Rutger van Rees</h1>
       <p className="my-5 max-w-[460px] text-neutral-200">
         Full-Stack Developer 🔥

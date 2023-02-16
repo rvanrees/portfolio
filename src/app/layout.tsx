@@ -1,3 +1,4 @@
+import { AnalyticsWrapper } from "components/analytics";
 import "./globals.css";
 
 export default function RootLayout({
@@ -8,7 +9,10 @@ export default function RootLayout({
   return (
     <html lang="en" className="text-white bg-black">
       <head />
-      <body className="p-8 md:p-32 lg:p-32">{children}</body>
+      <body className="p-8 md:p-32 lg:p-32">
+        {children}
+        <AnalyticsWrapper />
+      </body>
     </html>
   );
 }
