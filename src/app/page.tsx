@@ -36,8 +36,7 @@ export default function Home() {
             Rutger van Rees
           </a>
           <Link
-            href="https://rutgervanrees.nl/tailk"
-            target="_blank"
+            href="https://web-inky-nine-91.vercel.app"
             className="flex items-center gap-3 hover:text-white"
           >
             <ArrowIcon />
