@@ -1,5 +1,5 @@
 import { About } from "components/about";
-import { Biography } from "components/Biography";
+import { Biography } from "components/biography";
 import { Navbar } from "components/navbar";
 
 export default function Home() {
