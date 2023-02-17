@@ -14,7 +14,7 @@ export function Navbar() {
                     <div className="flex items-center">
                       <a
                         href="/"
-                        className="mr-2 text-sm text-gray-900 hover:underline"
+                        className="mr-1 text-sm text-neutral-200 hover:underline"
                       >
                         rvanrees
                       </a>
@@ -24,7 +24,7 @@ export function Navbar() {
                         viewBox="0 0 16 20"
                         fill="currentColor"
                         aria-hidden="true"
-                        className="h-5 w-4 text-gray-300"
+                        className="h-5 w-4 text-neutral-200"
                       >
                         <path d="M5.697 4.34L8.98 16.532h1.327L7.025 4.341H5.697z" />
                       </svg>
@@ -35,7 +35,7 @@ export function Navbar() {
                     <div className="flex items-center">
                       <a
                         href="/"
-                        className="mr-2 text-sm font-bold text-gray-900 hover:underline"
+                        className="mr-1 text-sm font-bold text-white hover:underline"
                       >
                         portfolio
                       </a>

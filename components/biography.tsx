@@ -1,4 +1,4 @@
-export function Blogs() {
+export function Biography() {
   return (
     <section>
       <p className="my-5 max-w-[600px] text-sm text-neutral-200">

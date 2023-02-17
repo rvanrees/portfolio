@@ -37,7 +37,7 @@ export function About() {
           </a>
           <Link
             href="https://web-inky-nine-91.vercel.app"
-            className="flex items-center gap-3 hover:text-white"
+            className="flex items-center gap-1 hover:text-white"
           >
             <ArrowIcon />
             My latest project: Tailk
