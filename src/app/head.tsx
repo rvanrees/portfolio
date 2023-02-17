@@ -1,9 +1,12 @@
 export default function Head() {
   return (
     <>
-      <title>Rutger van Rees</title>
+      <title>rvanrees / portfolio</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="description" content="Hello! I'm Rutger van Rees." />
+      <meta
+        name="description"
+        content="Rutger van Rees - Full-Stack Developer"
+      />
       <link rel="icon" href="/favicon.ico" />
     </>
   );
